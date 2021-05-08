@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../lib/libSLAM.a  CMakeFiles/SLAM.dir/SLAM.cpp.o
-/usr/bin/ranlib ../../lib/libSLAM.a
