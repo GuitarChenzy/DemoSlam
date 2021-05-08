@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frame.cpp.o -c /home/czy/Projects/MySlam/src/frame.cpp",
+  "file": "/home/czy/Projects/MySlam/src/frame.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/czy/Projects/MySlam/src/mappoint.cpp",
+  "file": "/home/czy/Projects/MySlam/src/mappoint.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/map.cpp.o -c /home/czy/Projects/MySlam/src/map.cpp",
+  "file": "/home/czy/Projects/MySlam/src/map.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/camera.cpp.o -c /home/czy/Projects/MySlam/src/camera.cpp",
+  "file": "/home/czy/Projects/MySlam/src/camera.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/config.cpp.o -c /home/czy/Projects/MySlam/src/config.cpp",
+  "file": "/home/czy/Projects/MySlam/src/config.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/feature.cpp.o -c /home/czy/Projects/MySlam/src/feature.cpp",
+  "file": "/home/czy/Projects/MySlam/src/feature.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/frontend.cpp.o -c /home/czy/Projects/MySlam/src/frontend.cpp",
+  "file": "/home/czy/Projects/MySlam/src/frontend.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/backend.cpp.o -c /home/czy/Projects/MySlam/src/backend.cpp",
+  "file": "/home/czy/Projects/MySlam/src/backend.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/viewer.cpp.o -c /home/czy/Projects/MySlam/src/viewer.cpp",
+  "file": "/home/czy/Projects/MySlam/src/viewer.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/czy/Projects/MySlam/src/visual_odometry.cpp",
+  "file": "/home/czy/Projects/MySlam/src/visual_odometry.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/src",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -Dmyslam_EXPORTS -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread -fPIC   -o CMakeFiles/myslam.dir/dataset.cpp.o -c /home/czy/Projects/MySlam/src/dataset.cpp",
+  "file": "/home/czy/Projects/MySlam/src/dataset.cpp"
+},
+{
+  "directory": "/home/czy/Projects/MySlam/build/app",
+  "command": "/usr/bin/g++-5   -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/usr/local/lib/cmake/Pangolin/../../../include -I/usr/include/suitesparse -I/home/czy/Projects/MySlam/include  -std=c++11 -Wall -std=c++11 -O3 -fopenmp -pthread   -o CMakeFiles/run_kitti_stereo.dir/run_kitti_stereo.cpp.o -c /home/czy/Projects/MySlam/app/run_kitti_stereo.cpp",
+  "file": "/home/czy/Projects/MySlam/app/run_kitti_stereo.cpp"
+}
+]
